@@ -1,0 +1,26 @@
+﻿{
+  "name": "Heart",
+  "atk": 10,
+  "def": 5,
+  "moveSpeed": 5.5,
+  "roundSpeed": 1.4,
+  "weapon": {
+    "id": 1,
+    "num": 2
+  },
+  "listInt": [1, 2, 3, 4],
+  "ItemList": [
+    {"id": 1, "num": 2},
+    {"id": 2, "num": 3}
+  ],
+  "itemDic": {
+    "1": {"id": 1, "num": 2},
+    "2":{"id":2, "num":3}
+  },
+  "ItemDic2":{
+    "棍":{"id":1, "num":2},
+    "枪":{"id":2, "num":3}
+  },
+  "privateI":1,
+  "protected":2
+}

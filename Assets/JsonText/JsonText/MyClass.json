@@ -1,0 +1,24 @@
+﻿{
+  "name": "Heart",
+  "age": 22,
+  "sex": true,
+  "ids": [1, 2, 3, 4],
+  "students": [
+    {
+      "name": "easily",
+      "age": 22,
+      "sex": true
+    },
+    {
+      "name": "Sakura",
+      "age": 22,
+      "sex": false
+    }
+  ],
+  "home": {
+    "address": "北京",
+    "street": "朝阳区"
+  },
+  "son": null
+}
+
